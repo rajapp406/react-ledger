@@ -1,0 +1,371 @@
+[
+  {
+    "stock": "SBIN",
+    "ISIN": "INE062A01020",
+    "sellDate": "2024-08-01",
+    "buyDate": "2024-08-06",
+    "quantity": 6,
+    "buyPrice": 5267.7,
+    "sellPrice": 4780.2
+  },
+  {
+    "stock": "SBIN",
+    "ISIN": "INE062A01020",
+    "buyDate": "2024-08-01",
+    "sellDate": "2024-08-06",
+    "quantity": 5,
+    "buyPrice": 4389.75,
+    "sellPrice": 3988.75
+  },
+  {
+    "stock": "SBIN",
+    "ISIN": "INE062A01020",
+    "buyDate": "2024-08-06",
+    "sellDate": "2024-08-06",
+    "quantity": 5,
+    "buyPrice": 4045,
+    "sellPrice": 3983.5
+  },
+  {
+    "stock": "JTAPARIA",
+    "ISIN": "INE075K01013",
+    "buyDate": "2024-08-06",
+    "sellDate": "2024-09-02",
+    "quantity": 30,
+    "buyPrice": 842.4,
+    "sellPrice": 832.5
+  },
+  {
+    "stock": "JTAPARIA",
+    "ISIN": "INE075K01013",
+    "buyDate": "2024-08-06",
+    "sellDate": "2024-09-12",
+    "quantity": 20,
+    "buyPrice": 561.6,
+    "sellPrice": 562.4
+  },
+  {
+    "stock": "TATASTEEL",
+    "ISIN": "INE081A01020",
+    "buyDate": "2024-08-06",
+    "sellDate": "2024-10-07",
+    "quantity": 10,
+    "buyPrice": 1504,
+    "sellPrice": 1645
+  },
+  {
+    "stock": "GAIL",
+    "ISIN": "INE129A01019",
+    "buyDate": "2024-08-19",
+    "sellDate": "2024-09-02",
+    "quantity": 20,
+    "buyPrice": 4702.2,
+    "sellPrice": 4730
+  },
+  {
+    "stock": "JPPOWER",
+    "ISIN": "INE351F01018",
+    "buyDate": "2024-08-19",
+    "sellDate": "2024-09-03",
+    "quantity": 100,
+    "buyPrice": 1796,
+    "sellPrice": 1840
+  },
+  {
+    "stock": "NCC",
+    "ISIN": "INE868B01028",
+    "buyDate": "2024-08-19",
+    "sellDate": "2024-10-22",
+    "quantity": 20,
+    "buyPrice": 6560,
+    "sellPrice": 5800
+  },
+  {
+    "stock": "OLAELEC",
+    "ISIN": "INE0LXG01040",
+    "buyDate": "2024-08-20",
+    "sellDate": "2024-09-05",
+    "quantity": 30,
+    "buyPrice": 4080,
+    "sellPrice": 3480
+  },
+  {
+    "stock": "OLAELEC",
+    "ISIN": "INE0LXG01040",
+    "buyDate": "2024-08-20",
+    "sellDate": "2024-10-22",
+    "quantity": 20,
+    "buyPrice": 2720,
+    "sellPrice": 1650
+  },
+  {
+    "stock": "NCC",
+    "ISIN": "INE868B01028",
+    "buyDate": "2024-08-20",
+    "sellDate": "2024-10-22",
+    "quantity": 10,
+    "buyPrice": 3200,
+    "sellPrice": 2900
+  },
+  {
+    "stock": "GMRP&UI",
+    "ISIN": "INE0CU601026",
+    "buyDate": "2024-08-21",
+    "sellDate": "2024-08-30",
+    "quantity": 50,
+    "buyPrice": 5800,
+    "sellPrice": 6900
+  },
+  {
+    "stock": "GMRP&UI",
+    "ISIN": "INE0CU601026",
+    "buyDate": "2024-08-21",
+    "sellDate": "2024-09-23",
+    "quantity": 50,
+    "buyPrice": 5800,
+    "sellPrice": 7430.5
+  },
+  {
+    "stock": "ORIENTTECH",
+    "ISIN": "INE0PPK01015",
+    "buyDate": "2024-08-28",
+    "sellDate": "2024-08-30",
+    "quantity": 20,
+    "buyPrice": 5760,
+    "sellPrice": 6712
+  },
+  {
+    "stock": "NBCC",
+    "ISIN": "INE095N01031",
+    "buyDate": "2024-08-28",
+    "sellDate": "2024-10-08",
+    "quantity": 15,
+    "buyPrice": 2850,
+    "sellPrice": 1740
+  },
+  {
+    "stock": "NBCC",
+    "ISIN": "INE095N01031",
+    "buyDate": "2024-08-28",
+    "sellDate": "2024-10-08",
+    "quantity": 5,
+    "buyPrice": 950,
+    "sellPrice": 580
+  },
+  {
+    "stock": "NBCC",
+    "ISIN": "INE095N01031",
+    "buyDate": "2024-08-28",
+    "sellDate": "2024-10-18",
+    "quantity": 10,
+    "buyPrice": 1880,
+    "sellPrice": 1071
+  },
+  {
+    "stock": "ADANIPOWER",
+    "ISIN": "INE814H01011",
+    "buyDate": "2024-09-02",
+    "sellDate": "2024-11-29",
+    "quantity": 10,
+    "buyPrice": 6350,
+    "sellPrice": 5580
+  },
+  {
+    "stock": "SCI",
+    "ISIN": "INE109A01011",
+    "buyDate": "2024-09-03",
+    "sellDate": "2024-09-20",
+    "quantity": 40,
+    "buyPrice": 10840,
+    "sellPrice": 10076
+  },
+  {
+    "stock": "SBIN",
+    "ISIN": "INE062A01020",
+    "buyDate": "2024-09-06",
+    "sellDate": "2024-10-24",
+    "quantity": 10,
+    "buyPrice": 7880,
+    "sellPrice": 7960
+  },
+  {
+    "stock": "SBIN",
+    "ISIN": "INE062A01020",
+    "buyDate": "2024-09-06",
+    "sellDate": "2024-10-29",
+    "quantity": 10,
+    "buyPrice": 7880,
+    "sellPrice": 8280
+  },
+  {
+    "stock": "NTPC",
+    "ISIN": "INE733E01010",
+    "buyDate": "2024-09-19",
+    "sellDate": "2024-09-19",
+    "quantity": 6,
+    "buyPrice": 2556,
+    "sellPrice": 2538
+  },
+  {
+    "stock": "NTPC",
+    "ISIN": "INE733E01010",
+    "buyDate": "2024-09-19",
+    "sellDate": "2024-09-19",
+    "quantity": 1,
+    "buyPrice": 426,
+    "sellPrice": 423
+  },
+  {
+    "stock": "NTPC",
+    "ISIN": "INE733E01010",
+    "buyDate": "2024-09-19",
+    "sellDate": "2024-09-19",
+    "quantity": 2,
+    "buyPrice": 852,
+    "sellPrice": 846
+  },
+  {
+    "stock": "NTPC",
+    "ISIN": "INE733E01010",
+    "buyDate": "2024-09-19",
+    "sellDate": "2024-09-19",
+    "quantity": 1,
+    "buyPrice": 426,
+    "sellPrice": 423
+  },
+  {
+    "stock": "NTPC",
+    "ISIN": "INE733E01010",
+    "buyDate": "2024-09-19",
+    "sellDate": "2024-09-19",
+    "quantity": 8,
+    "buyPrice": 3375.6,
+    "sellPrice": 3384
+  },
+  {
+    "stock": "INDUSTOWER",
+    "ISIN": "INE121J01017",
+    "buyDate": "2024-09-19",
+    "sellDate": "2024-09-19",
+    "quantity": 10,
+    "buyPrice": 3854.5,
+    "sellPrice": 3850
+  },
+  {
+    "stock": "INDUSTOWER",
+    "ISIN": "INE121J01017",
+    "buyDate": "2024-09-19",
+    "sellDate": "2024-09-19",
+    "quantity": 20,
+    "buyPrice": 7710,
+    "sellPrice": 7700
+  },
+  {
+    "stock": "INDUSTOWER",
+    "ISIN": "INE121J01017",
+    "buyDate": "2024-09-19",
+    "sellDate": "2025-01-14",
+    "quantity": 10,
+    "buyPrice": 3820,
+    "sellPrice": 3400
+  },
+  {
+    "stock": "VSTIND",
+    "ISIN": "INE710A01016",
+    "buyDate": "2024-09-23",
+    "sellDate": "2024-10-25",
+    "quantity": 50,
+    "buyPrice": 20800,
+    "sellPrice": 16850
+  },
+  {
+    "stock": "NBCC",
+    "ISIN": "INE095N01031",
+    "buyDate": "2024-10-04",
+    "sellDate": "2024-10-18",
+    "quantity": 9,
+    "buyPrice": 1512,
+    "sellPrice": 963.9
+  },
+  {
+    "stock": "NBCC",
+    "ISIN": "INE095N01031",
+    "buyDate": "2024-10-04",
+    "sellDate": "2024-10-22",
+    "quantity": 1,
+    "buyPrice": 168,
+    "sellPrice": 99
+  },
+  {
+    "stock": "NBCC",
+    "ISIN": "INE095N01031",
+    "buyDate": "2024-10-05",
+    "sellDate": "2024-10-22",
+    "quantity": 20,
+    "buyPrice": 0,
+    "sellPrice": 1980
+  },
+  {
+    "stock": "ADANIPOWER",
+    "ISIN": "INE814H01011",
+    "buyDate": "2024-10-07",
+    "sellDate": "2025-01-14",
+    "quantity": 10,
+    "buyPrice": 6259.5,
+    "sellPrice": 5300.5
+  },
+  {
+    "stock": "NATIONALUM",
+    "ISIN": "INE139A01034",
+    "buyDate": "2024-10-08",
+    "sellDate": "2024-10-08",
+    "quantity": 10,
+    "buyPrice": 2116.4,
+    "sellPrice": 2139
+  },
+  {
+    "stock": "HAL",
+    "ISIN": "INE066F01020",
+    "buyDate": "2024-10-14",
+    "sellDate": "2024-10-14",
+    "quantity": 1,
+    "buyPrice": 4536,
+    "sellPrice": 4505
+  },
+  {
+    "stock": "HAL",
+    "ISIN": "INE066F01020",
+    "buyDate": "2024-11-14",
+    "sellDate": "2024-11-14",
+    "quantity": 1,
+    "buyPrice": 4066.9,
+    "sellPrice": 4118.15
+  },
+  {
+    "stock": "BAJAJHFL",
+    "ISIN": "INE377Y01014",
+    "buyDate": "2025-01-13",
+    "sellDate": "2025-01-13",
+    "quantity": 10,
+    "buyPrice": 1150,
+    "sellPrice": 1125
+  },
+  {
+    "stock": "CAMS",
+    "ISIN": "INE596I01012",
+    "buyDate": "2025-02-05",
+    "sellDate": "2025-02-05",
+    "quantity": 1,
+    "buyPrice": 3577.5,
+    "sellPrice": 3645
+  },
+  {
+    "stock": "CAMS",
+    "ISIN": "INE596I01012",
+    "buyDate": "2025-02-05",
+    "sellDate": "2025-02-05",
+    "quantity": 1,
+    "buyPrice": 3647.55,
+    "sellPrice": 3645
+  }
+]
