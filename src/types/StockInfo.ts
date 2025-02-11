@@ -1,10 +1,11 @@
 import { StockType } from './enum/StockType';
 
 export default interface StockInfo {
+  id: string;
   stock: string;
   price: number;
-  date: string;
-  qty: number;
+  tradeDate: string;
+  quantity: number;
   changes: number;
-  type: StockType;
+  tradeType: StockType;
 }

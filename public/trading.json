@@ -1,0 +1,1676 @@
+[
+    {
+     "stock": "SBIN",
+     "ISIN": "INE062A01020",
+     "tradeDate": "2024-08-01",
+     "tradeType": "buy",
+     "quantity": 11,
+     "price": 877.95,
+     "orderExecutionTime": "2024-08-01T12:14:01"
+    },
+    {
+     "stock": "SUZLON",
+     "ISIN": "INE040H01021",
+     "tradeDate": "2024-08-05",
+     "tradeType": "buy",
+     "quantity": 4,
+     "price": 68.4,
+     "orderExecutionTime": "2024-08-05T13:26:29"
+    },
+    {
+     "stock": "SBIN",
+     "ISIN": "INE062A01020",
+     "tradeDate": "2024-08-06",
+     "tradeType": "sell",
+     "quantity": 11,
+     "price": 796.7,
+     "orderExecutionTime": "2024-08-06T12:23:37"
+    },
+    {
+     "stock": "SBIN",
+     "ISIN": "INE062A01020",
+     "tradeDate": "2024-08-06",
+     "tradeType": "buy",
+     "quantity": 5,
+     "price": 809,
+     "orderExecutionTime": "2024-08-06T12:52:48"
+    },
+    {
+     "stock": "JTAPARIA-XT",
+     "ISIN": "INE075K01013",
+     "tradeDate": "2024-08-06",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 28.08,
+     "orderExecutionTime": "2024-08-06T12:53:59"
+    },
+    {
+     "stock": "TATASTEEL",
+     "ISIN": "INE081A01020",
+     "tradeDate": "2024-08-06",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 150.4,
+     "orderExecutionTime": "2024-08-06T13:22:03"
+    },
+    {
+     "stock": "SBIN",
+     "ISIN": "INE062A01020",
+     "tradeDate": "2024-08-06",
+     "tradeType": "sell",
+     "quantity": 5,
+     "price": 797.75,
+     "orderExecutionTime": "2024-08-06T14:21:40"
+    },
+    {
+     "stock": "SUZLON",
+     "ISIN": "INE040H01021",
+     "tradeDate": "2024-08-06",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 66.82,
+     "orderExecutionTime": "2024-08-06T15:29:00"
+    },
+    {
+     "stock": "JIOFIN",
+     "ISIN": "INE758E01017",
+     "tradeDate": "2024-08-07",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 314.9,
+     "orderExecutionTime": "2024-08-07T09:17:13"
+    },
+    {
+     "stock": "ONGC",
+     "ISIN": "INE213A01029",
+     "tradeDate": "2024-08-07",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 329,
+     "orderExecutionTime": "2024-08-07T15:10:38"
+    },
+    {
+     "stock": "NHPC",
+     "ISIN": "INE848E01016",
+     "tradeDate": "2024-08-08",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 98.4,
+     "orderExecutionTime": "2024-08-08T15:11:25"
+    },
+    {
+     "stock": "SUZLON",
+     "ISIN": "INE040H01021",
+     "tradeDate": "2024-08-09",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 74.93,
+     "orderExecutionTime": "2024-08-09T09:25:40"
+    },
+    {
+     "stock": "MOTHERSON",
+     "ISIN": "INE775A01035",
+     "tradeDate": "2024-08-14",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 184,
+     "orderExecutionTime": "2024-08-14T09:33:41"
+    },
+    {
+     "stock": "MOTHERSON",
+     "ISIN": "INE775A01035",
+     "tradeDate": "2024-08-14",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 185.87,
+     "orderExecutionTime": "2024-08-14T09:34:24"
+    },
+    {
+     "stock": "SUZLON",
+     "ISIN": "INE040H01021",
+     "tradeDate": "2024-08-14",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 76.76,
+     "orderExecutionTime": "2024-08-14T10:01:50"
+    },
+    {
+     "stock": "NHPC",
+     "ISIN": "INE848E01016",
+     "tradeDate": "2024-08-14",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 93.5,
+     "orderExecutionTime": "2024-08-14T15:29:07"
+    },
+    {
+     "stock": "JPPOWER",
+     "ISIN": "INE351F01018",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 100,
+     "price": 17.96,
+     "orderExecutionTime": "2024-08-19T09:15:03"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 585.5,
+     "orderExecutionTime": "2024-08-19T09:16:41"
+    },
+    {
+     "stock": "GAIL",
+     "ISIN": "INE129A01019",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 235.11,
+     "orderExecutionTime": "2024-08-19T09:35:57"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 516.3,
+     "orderExecutionTime": "2024-08-19T10:54:19"
+    },
+    {
+     "stock": "IOC",
+     "ISIN": "INE242A01010",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 169.9,
+     "orderExecutionTime": "2024-08-19T11:35:01"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 572,
+     "orderExecutionTime": "2024-08-19T12:04:50"
+    },
+    {
+     "stock": "NCC",
+     "ISIN": "INE868B01028",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 328,
+     "orderExecutionTime": "2024-08-19T15:16:24"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1088.5,
+     "orderExecutionTime": "2024-08-19T15:20:29"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-08-19",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1087,
+     "orderExecutionTime": "2024-08-19T15:21:42"
+    },
+    {
+     "stock": "NCC",
+     "ISIN": "INE868B01028",
+     "tradeDate": "2024-08-20",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 320,
+     "orderExecutionTime": "2024-08-20T11:22:56"
+    },
+    {
+     "stock": "OLAELEC",
+     "ISIN": "INE0LXG01040",
+     "tradeDate": "2024-08-20",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 136,
+     "orderExecutionTime": "2024-08-20T11:26:10"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-08-20",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 561,
+     "orderExecutionTime": "2024-08-20T12:17:55"
+    },
+    {
+     "stock": "ENGINERSIN",
+     "ISIN": "INE510A01028",
+     "tradeDate": "2024-08-20",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 218.85,
+     "orderExecutionTime": "2024-08-20T15:16:52"
+    },
+    {
+     "stock": "GMRP&UI",
+     "ISIN": "INE0CU601026",
+     "tradeDate": "2024-08-21",
+     "tradeType": "buy",
+     "quantity": 100,
+     "price": 116,
+     "orderExecutionTime": "2024-08-21T09:16:19"
+    },
+    {
+     "stock": "HINDZINC",
+     "ISIN": "INE267A01025",
+     "tradeDate": "2024-08-22",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 514.5,
+     "orderExecutionTime": "2024-08-22T09:44:10"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-08-22",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1065,
+     "orderExecutionTime": "2024-08-22T14:27:55"
+    },
+    {
+     "stock": "NMDC",
+     "ISIN": "INE584A01023",
+     "tradeDate": "2024-08-23",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 222.5,
+     "orderExecutionTime": "2024-08-23T14:33:29"
+    },
+    {
+     "stock": "MSUMI",
+     "ISIN": "INE0FS801015",
+     "tradeDate": "2024-08-26",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 71.3,
+     "orderExecutionTime": "2024-08-26T09:21:13"
+    },
+    {
+     "stock": "NATIONALUM",
+     "ISIN": "INE139A01034",
+     "tradeDate": "2024-08-27",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 184.5,
+     "orderExecutionTime": "2024-08-27T11:33:45"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-08-27",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1076,
+     "orderExecutionTime": "2024-08-27T15:12:10"
+    },
+    {
+     "stock": "ORIENTTECH-BE",
+     "ISIN": "INE0PPK01015",
+     "tradeDate": "2024-08-28",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 288,
+     "orderExecutionTime": "2024-08-28T09:23:44"
+    },
+    {
+     "stock": "NBCC",
+     "ISIN": "INE095N01031",
+     "tradeDate": "2024-08-28",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 190,
+     "orderExecutionTime": "2024-08-28T09:25:41"
+    },
+    {
+     "stock": "NBCC",
+     "ISIN": "INE095N01031",
+     "tradeDate": "2024-08-28",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 188,
+     "orderExecutionTime": "2024-08-28T09:28:44"
+    },
+    {
+     "stock": "ORIENTTECH-T",
+     "ISIN": "INE0PPK01015",
+     "tradeDate": "2024-08-30",
+     "tradeType": "sell",
+     "quantity": 20,
+     "price": 335.6,
+     "orderExecutionTime": "2024-08-30T09:37:19"
+    },
+    {
+     "stock": "GMRP&UI",
+     "ISIN": "INE0CU601026",
+     "tradeDate": "2024-08-30",
+     "tradeType": "sell",
+     "quantity": 50,
+     "price": 138,
+     "orderExecutionTime": "2024-08-30T15:15:30"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-08-30",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 524,
+     "orderExecutionTime": "2024-08-30T15:16:56"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-09-02",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 520,
+     "orderExecutionTime": "2024-09-02T09:17:50"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-09-02",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 635,
+     "orderExecutionTime": "2024-09-02T09:37:48"
+    },
+    {
+     "stock": "JTAPARIA-XT",
+     "ISIN": "INE075K01013",
+     "tradeDate": "2024-09-02",
+     "tradeType": "sell",
+     "quantity": 30,
+     "price": 27.75,
+     "orderExecutionTime": "2024-09-02T09:57:21"
+    },
+    {
+     "stock": "HINDZINC",
+     "ISIN": "INE267A01025",
+     "tradeDate": "2024-09-02",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 496,
+     "orderExecutionTime": "2024-09-02T10:04:07"
+    },
+    {
+     "stock": "GAIL",
+     "ISIN": "INE129A01019",
+     "tradeDate": "2024-09-02",
+     "tradeType": "sell",
+     "quantity": 20,
+     "price": 236.5,
+     "orderExecutionTime": "2024-09-02T10:30:44"
+    },
+    {
+     "stock": "JPPOWER",
+     "ISIN": "INE351F01018",
+     "tradeDate": "2024-09-03",
+     "tradeType": "sell",
+     "quantity": 100,
+     "price": 18.4,
+     "orderExecutionTime": "2024-09-03T10:45:57"
+    },
+    {
+     "stock": "SCI",
+     "ISIN": "INE109A01011",
+     "tradeDate": "2024-09-03",
+     "tradeType": "buy",
+     "quantity": 40,
+     "price": 271,
+     "orderExecutionTime": "2024-09-03T14:35:06"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-09-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 503,
+     "orderExecutionTime": "2024-09-04T15:13:21"
+    },
+    {
+     "stock": "OLAELEC",
+     "ISIN": "INE0LXG01040",
+     "tradeDate": "2024-09-05",
+     "tradeType": "sell",
+     "quantity": 30,
+     "price": 116,
+     "orderExecutionTime": "2024-09-05T11:46:56"
+    },
+    {
+     "stock": "SBIN",
+     "ISIN": "INE062A01020",
+     "tradeDate": "2024-09-06",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 788,
+     "orderExecutionTime": "2024-09-06T11:32:24"
+    },
+    {
+     "stock": "EXIDEIND",
+     "ISIN": "INE302A01020",
+     "tradeDate": "2024-09-06",
+     "tradeType": "buy",
+     "quantity": 40,
+     "price": 484.5,
+     "orderExecutionTime": "2024-09-06T13:57:13"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-09-11",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 980,
+     "orderExecutionTime": "2024-09-11T09:17:27"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-09-11",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 484.2,
+     "orderExecutionTime": "2024-09-11T15:29:12"
+    },
+    {
+     "stock": "JTAPARIA-X",
+     "ISIN": "INE075K01013",
+     "tradeDate": "2024-09-12",
+     "tradeType": "sell",
+     "quantity": 20,
+     "price": 28.12,
+     "orderExecutionTime": "2024-09-12T09:20:12"
+    },
+    {
+     "stock": "BAJAJHFL",
+     "ISIN": "INE377Y01014",
+     "tradeDate": "2024-09-16",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 150,
+     "orderExecutionTime": "2024-09-16T09:05:00"
+    },
+    {
+     "stock": "GRANULES",
+     "ISIN": "INE101D01020",
+     "tradeDate": "2024-09-17",
+     "tradeType": "buy",
+     "quantity": 40,
+     "price": 548,
+     "orderExecutionTime": "2024-09-17T10:17:04"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-09-17",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 964,
+     "orderExecutionTime": "2024-09-17T12:20:05"
+    },
+    {
+     "stock": "ONGC",
+     "ISIN": "INE213A01029",
+     "tradeDate": "2024-09-18",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 288,
+     "orderExecutionTime": "2024-09-18T10:35:47"
+    },
+    {
+     "stock": "NTPC",
+     "ISIN": "INE733E01010",
+     "tradeDate": "2024-09-19",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 426,
+     "orderExecutionTime": "2024-09-19T11:11:32"
+    },
+    {
+     "stock": "INDUSTOWER",
+     "ISIN": "INE121J01017",
+     "tradeDate": "2024-09-19",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 385.45,
+     "orderExecutionTime": "2024-09-19T11:55:03"
+    },
+    {
+     "stock": "NTPC",
+     "ISIN": "INE733E01010",
+     "tradeDate": "2024-09-19",
+     "tradeType": "sell",
+     "quantity": 1,
+     "price": 423,
+     "orderExecutionTime": "2024-09-19T12:52:31"
+    },
+    {
+     "stock": "NTPC",
+     "ISIN": "INE733E01010",
+     "tradeDate": "2024-09-19",
+     "tradeType": "sell",
+     "quantity": 2,
+     "price": 423,
+     "orderExecutionTime": "2024-09-19T12:52:31"
+    },
+    {
+     "stock": "NTPC",
+     "ISIN": "INE733E01010",
+     "tradeDate": "2024-09-19",
+     "tradeType": "sell",
+     "quantity": 6,
+     "price": 423,
+     "orderExecutionTime": "2024-09-19T12:52:31"
+    },
+    {
+     "stock": "INDUSTOWER",
+     "ISIN": "INE121J01017",
+     "tradeDate": "2024-09-19",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 385.5,
+     "orderExecutionTime": "2024-09-19T13:20:47"
+    },
+    {
+     "stock": "INDUSTOWER",
+     "ISIN": "INE121J01017",
+     "tradeDate": "2024-09-19",
+     "tradeType": "sell",
+     "quantity": 30,
+     "price": 385,
+     "orderExecutionTime": "2024-09-19T13:50:55"
+    },
+    {
+     "stock": "NTPC",
+     "ISIN": "INE733E01010",
+     "tradeDate": "2024-09-19",
+     "tradeType": "buy",
+     "quantity": 9,
+     "price": 421.95,
+     "orderExecutionTime": "2024-09-19T13:51:11"
+    },
+    {
+     "stock": "INDUSTOWER",
+     "ISIN": "INE121J01017",
+     "tradeDate": "2024-09-19",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 382,
+     "orderExecutionTime": "2024-09-19T13:56:57"
+    },
+    {
+     "stock": "NTPC",
+     "ISIN": "INE733E01010",
+     "tradeDate": "2024-09-19",
+     "tradeType": "sell",
+     "quantity": 8,
+     "price": 423,
+     "orderExecutionTime": "2024-09-19T14:03:22"
+    },
+    {
+     "stock": "NTPC",
+     "ISIN": "INE733E01010",
+     "tradeDate": "2024-09-19",
+     "tradeType": "sell",
+     "quantity": 1,
+     "price": 423,
+     "orderExecutionTime": "2024-09-19T14:03:22"
+    },
+    {
+     "stock": "SCI",
+     "ISIN": "INE109A01011",
+     "tradeDate": "2024-09-20",
+     "tradeType": "sell",
+     "quantity": 40,
+     "price": 251.9,
+     "orderExecutionTime": "2024-09-20T11:26:03"
+    },
+    {
+     "stock": "GMRP&UI",
+     "ISIN": "INE0CU601026",
+     "tradeDate": "2024-09-23",
+     "tradeType": "sell",
+     "quantity": 50,
+     "price": 148.61,
+     "orderExecutionTime": "2024-09-23T11:31:52"
+    },
+    {
+     "stock": "OLAELEC",
+     "ISIN": "INE0LXG01040",
+     "tradeDate": "2024-09-23",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 108.5,
+     "orderExecutionTime": "2024-09-23T14:46:27"
+    },
+    {
+     "stock": "VSTIND",
+     "ISIN": "INE710A01016",
+     "tradeDate": "2024-09-23",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 416,
+     "orderExecutionTime": "2024-09-23T14:46:43"
+    },
+    {
+     "stock": "VSTIND",
+     "ISIN": "INE710A01016",
+     "tradeDate": "2024-09-24",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 388,
+     "orderExecutionTime": "2024-09-24T11:03:24"
+    },
+    {
+     "stock": "OLAELEC",
+     "ISIN": "INE0LXG01040",
+     "tradeDate": "2024-09-24",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 104,
+     "orderExecutionTime": "2024-09-24T13:56:22"
+    },
+    {
+     "stock": "PFC",
+     "ISIN": "INE134E01011",
+     "tradeDate": "2024-09-24",
+     "tradeType": "buy",
+     "quantity": 25,
+     "price": 489.5,
+     "orderExecutionTime": "2024-09-24T15:23:22"
+    },
+    {
+     "stock": "OLAELEC",
+     "ISIN": "INE0LXG01040",
+     "tradeDate": "2024-09-30",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 99.7,
+     "orderExecutionTime": "2024-09-30T15:22:24"
+    },
+    {
+     "stock": "NATCOPHARM",
+     "ISIN": "INE987B01026",
+     "tradeDate": "2024-10-01",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1400,
+     "orderExecutionTime": "2024-10-01T14:50:40"
+    },
+    {
+     "stock": "CDSL",
+     "ISIN": "INE736A01011",
+     "tradeDate": "2024-10-03",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1447,
+     "orderExecutionTime": "2024-10-03T09:33:20"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-10-03",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 926,
+     "orderExecutionTime": "2024-10-03T13:36:04"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-03",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1089,
+     "orderExecutionTime": "2024-10-03T13:43:59"
+    },
+    {
+     "stock": "CDSL",
+     "ISIN": "INE736A01011",
+     "tradeDate": "2024-10-03",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1415,
+     "orderExecutionTime": "2024-10-03T15:05:11"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-03",
+     "tradeType": "buy",
+     "quantity": 5,
+     "price": 1078,
+     "orderExecutionTime": "2024-10-03T15:25:15"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 495,
+     "orderExecutionTime": "2024-10-04T09:19:25"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 495,
+     "orderExecutionTime": "2024-10-04T09:19:51"
+    },
+    {
+     "stock": "NBCC",
+     "ISIN": "INE095N01031",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 168,
+     "orderExecutionTime": "2024-10-04T09:25:53"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1038,
+     "orderExecutionTime": "2024-10-04T10:09:54"
+    },
+    {
+     "stock": "ORIENTTECH",
+     "ISIN": "INE0PPK01015",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 262.15,
+     "orderExecutionTime": "2024-10-04T13:10:40"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 5,
+     "price": 1025,
+     "orderExecutionTime": "2024-10-04T13:38:27"
+    },
+    {
+     "stock": "VSTIND",
+     "ISIN": "INE710A01016",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 359,
+     "orderExecutionTime": "2024-10-04T14:48:50"
+    },
+    {
+     "stock": "CDSL",
+     "ISIN": "INE736A01011",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1378,
+     "orderExecutionTime": "2024-10-04T15:02:26"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1021.5,
+     "orderExecutionTime": "2024-10-04T15:04:09"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-04",
+     "tradeType": "buy",
+     "quantity": 5,
+     "price": 1016,
+     "orderExecutionTime": "2024-10-04T15:29:22"
+    },
+    {
+     "stock": "TATASTEEL",
+     "ISIN": "INE081A01020",
+     "tradeDate": "2024-10-07",
+     "tradeType": "sell",
+     "quantity": 10,
+     "price": 164.5,
+     "orderExecutionTime": "2024-10-07T13:55:36"
+    },
+    {
+     "stock": "BAJAJHFL",
+     "ISIN": "INE377Y01014",
+     "tradeDate": "2024-10-07",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 136.15,
+     "orderExecutionTime": "2024-10-07T14:17:36"
+    },
+    {
+     "stock": "HINDZINC",
+     "ISIN": "INE267A01025",
+     "tradeDate": "2024-10-07",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 494,
+     "orderExecutionTime": "2024-10-07T14:18:43"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-10-07",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 454,
+     "orderExecutionTime": "2024-10-07T15:01:26"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-10-07",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 625.95,
+     "orderExecutionTime": "2024-10-07T15:28:24"
+    },
+    {
+     "stock": "NATIONALUM",
+     "ISIN": "INE139A01034",
+     "tradeDate": "2024-10-08",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 211.64,
+     "orderExecutionTime": "2024-10-08T10:16:34"
+    },
+    {
+     "stock": "NBCC",
+     "ISIN": "INE095N01031",
+     "tradeDate": "2024-10-08",
+     "tradeType": "sell",
+     "quantity": 15,
+     "price": 116,
+     "orderExecutionTime": "2024-10-08T10:18:12"
+    },
+    {
+     "stock": "NBCC",
+     "ISIN": "INE095N01031",
+     "tradeDate": "2024-10-08",
+     "tradeType": "sell",
+     "quantity": 5,
+     "price": 116,
+     "orderExecutionTime": "2024-10-08T10:18:12"
+    },
+    {
+     "stock": "NATIONALUM",
+     "ISIN": "INE139A01034",
+     "tradeDate": "2024-10-08",
+     "tradeType": "sell",
+     "quantity": 10,
+     "price": 213.9,
+     "orderExecutionTime": "2024-10-08T10:25:42"
+    },
+    {
+     "stock": "WCIL",
+     "ISIN": "INE0CJF01024",
+     "tradeDate": "2024-10-08",
+     "tradeType": "buy",
+     "quantity": 13,
+     "price": 144.3,
+     "orderExecutionTime": "2024-10-08T15:29:01"
+    },
+    {
+     "stock": "GABRIEL",
+     "ISIN": "INE524A01029",
+     "tradeDate": "2024-10-09",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 480.75,
+     "orderExecutionTime": "2024-10-09T09:27:17"
+    },
+    {
+     "stock": "ITC",
+     "ISIN": "INE154A01025",
+     "tradeDate": "2024-10-10",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 490,
+     "orderExecutionTime": "2024-10-10T12:08:05"
+    },
+    {
+     "stock": "GABRIEL",
+     "ISIN": "INE524A01029",
+     "tradeDate": "2024-10-11",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 450,
+     "orderExecutionTime": "2024-10-11T09:16:06"
+    },
+    {
+     "stock": "HAL",
+     "ISIN": "INE066F01020",
+     "tradeDate": "2024-10-14",
+     "tradeType": "buy",
+     "quantity": 1,
+     "price": 4536,
+     "orderExecutionTime": "2024-10-14T09:24:18"
+    },
+    {
+     "stock": "HAL",
+     "ISIN": "INE066F01020",
+     "tradeDate": "2024-10-14",
+     "tradeType": "sell",
+     "quantity": 1,
+     "price": 4505,
+     "orderExecutionTime": "2024-10-14T09:34:32"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-10-16",
+     "tradeType": "buy",
+     "quantity": 9,
+     "price": 906.5,
+     "orderExecutionTime": "2024-10-16T15:29:03"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-10-16",
+     "tradeType": "buy",
+     "quantity": 1,
+     "price": 906,
+     "orderExecutionTime": "2024-10-16T15:29:03"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-10-17",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 609,
+     "orderExecutionTime": "2024-10-17T14:52:42"
+    },
+    {
+     "stock": "GABRIEL",
+     "ISIN": "INE524A01029",
+     "tradeDate": "2024-10-17",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 434.3,
+     "orderExecutionTime": "2024-10-17T15:28:47"
+    },
+    {
+     "stock": "NBCC",
+     "ISIN": "INE095N01031",
+     "tradeDate": "2024-10-18",
+     "tradeType": "sell",
+     "quantity": 19,
+     "price": 107.1,
+     "orderExecutionTime": "2024-10-18T09:25:54"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-10-21",
+     "tradeType": "buy",
+     "quantity": 5,
+     "price": 601.5,
+     "orderExecutionTime": "2024-10-21T15:28:23"
+    },
+    {
+     "stock": "NBCC",
+     "ISIN": "INE095N01031",
+     "tradeDate": "2024-10-22",
+     "tradeType": "sell",
+     "quantity": 21,
+     "price": 99,
+     "orderExecutionTime": "2024-10-22T09:27:19"
+    },
+    {
+     "stock": "OLAELEC",
+     "ISIN": "INE0LXG01040",
+     "tradeDate": "2024-10-22",
+     "tradeType": "sell",
+     "quantity": 20,
+     "price": 82.5,
+     "orderExecutionTime": "2024-10-22T09:29:25"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-10-22",
+     "tradeType": "buy",
+     "quantity": 6,
+     "price": 592,
+     "orderExecutionTime": "2024-10-22T10:46:54"
+    },
+    {
+     "stock": "NCC",
+     "ISIN": "INE868B01028",
+     "tradeDate": "2024-10-22",
+     "tradeType": "sell",
+     "quantity": 30,
+     "price": 290,
+     "orderExecutionTime": "2024-10-22T12:47:04"
+    },
+    {
+     "stock": "WCIL",
+     "ISIN": "INE0CJF01024",
+     "tradeDate": "2024-10-22",
+     "tradeType": "buy",
+     "quantity": 8,
+     "price": 137,
+     "orderExecutionTime": "2024-10-22T14:11:52"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-22",
+     "tradeType": "buy",
+     "quantity": 4,
+     "price": 980,
+     "orderExecutionTime": "2024-10-22T14:35:35"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-24",
+     "tradeType": "buy",
+     "quantity": 1,
+     "price": 975,
+     "orderExecutionTime": "2024-10-24T09:34:20"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-24",
+     "tradeType": "buy",
+     "quantity": 1,
+     "price": 965,
+     "orderExecutionTime": "2024-10-24T09:37:20"
+    },
+    {
+     "stock": "SBIN",
+     "ISIN": "INE062A01020",
+     "tradeDate": "2024-10-24",
+     "tradeType": "sell",
+     "quantity": 10,
+     "price": 796,
+     "orderExecutionTime": "2024-10-24T12:57:26"
+    },
+    {
+     "stock": "ITC",
+     "ISIN": "INE154A01025",
+     "tradeDate": "2024-10-24",
+     "tradeType": "buy",
+     "quantity": 5,
+     "price": 470.3,
+     "orderExecutionTime": "2024-10-24T15:27:55"
+    },
+    {
+     "stock": "VSTIND",
+     "ISIN": "INE710A01016",
+     "tradeDate": "2024-10-25",
+     "tradeType": "sell",
+     "quantity": 50,
+     "price": 337,
+     "orderExecutionTime": "2024-10-25T09:16:59"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-10-25",
+     "tradeType": "buy",
+     "quantity": 5,
+     "price": 940,
+     "orderExecutionTime": "2024-10-25T10:42:31"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-10-28",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 445,
+     "orderExecutionTime": "2024-10-28T09:15:58"
+    },
+    {
+     "stock": "SBIN",
+     "ISIN": "INE062A01020",
+     "tradeDate": "2024-10-29",
+     "tradeType": "sell",
+     "quantity": 10,
+     "price": 828,
+     "orderExecutionTime": "2024-10-29T14:34:24"
+    },
+    {
+     "stock": "TATAMOTORS",
+     "ISIN": "INE155A01022",
+     "tradeDate": "2024-11-04",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 815,
+     "orderExecutionTime": "2024-11-04T10:13:43"
+    },
+    {
+     "stock": "ONGC",
+     "ISIN": "INE213A01029",
+     "tradeDate": "2024-11-08",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 260,
+     "orderExecutionTime": "2024-11-08T10:22:17"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-11-12",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 560,
+     "orderExecutionTime": "2024-11-12T12:18:52"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-11-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 425,
+     "orderExecutionTime": "2024-11-13T10:23:35"
+    },
+    {
+     "stock": "HINDZINC",
+     "ISIN": "INE267A01025",
+     "tradeDate": "2024-11-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 485,
+     "orderExecutionTime": "2024-11-13T10:25:21"
+    },
+    {
+     "stock": "SUZLON",
+     "ISIN": "INE040H01021",
+     "tradeDate": "2024-11-13",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 53.46,
+     "orderExecutionTime": "2024-11-13T14:21:36"
+    },
+    {
+     "stock": "KFINTECH",
+     "ISIN": "INE138Y01010",
+     "tradeDate": "2024-11-13",
+     "tradeType": "buy",
+     "quantity": 4,
+     "price": 970,
+     "orderExecutionTime": "2024-11-13T14:49:56"
+    },
+    {
+     "stock": "HAL",
+     "ISIN": "INE066F01020",
+     "tradeDate": "2024-11-14",
+     "tradeType": "buy",
+     "quantity": 1,
+     "price": 4066.9,
+     "orderExecutionTime": "2024-11-14T09:01:16"
+    },
+    {
+     "stock": "HINDZINC",
+     "ISIN": "INE267A01025",
+     "tradeDate": "2024-11-14",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 485.7,
+     "orderExecutionTime": "2024-11-14T09:03:18"
+    },
+    {
+     "stock": "HAL",
+     "ISIN": "INE066F01020",
+     "tradeDate": "2024-11-14",
+     "tradeType": "sell",
+     "quantity": 1,
+     "price": 4118.15,
+     "orderExecutionTime": "2024-11-14T13:50:38"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-11-26",
+     "tradeType": "buy",
+     "quantity": 9,
+     "price": 438.7,
+     "orderExecutionTime": "2024-11-26T12:14:47"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-11-28",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 422,
+     "orderExecutionTime": "2024-11-28T09:28:50"
+    },
+    {
+     "stock": "IOC",
+     "ISIN": "INE242A01010",
+     "tradeDate": "2024-11-28",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 139,
+     "orderExecutionTime": "2024-11-28T09:30:30"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-11-28",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 551,
+     "orderExecutionTime": "2024-11-28T09:31:08"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2024-11-29",
+     "tradeType": "sell",
+     "quantity": 10,
+     "price": 558,
+     "orderExecutionTime": "2024-11-29T11:04:20"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-12-17",
+     "tradeType": "buy",
+     "quantity": 3,
+     "price": 402.5,
+     "orderExecutionTime": "2024-12-17T15:24:22"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-12-17",
+     "tradeType": "buy",
+     "quantity": 7,
+     "price": 402.5,
+     "orderExecutionTime": "2024-12-17T15:24:22"
+    },
+    {
+     "stock": "WCIL",
+     "ISIN": "INE0CJF01024",
+     "tradeDate": "2024-12-19",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 115,
+     "orderExecutionTime": "2024-12-19T12:39:47"
+    },
+    {
+     "stock": "EXIDEIND",
+     "ISIN": "INE302A01020",
+     "tradeDate": "2024-12-20",
+     "tradeType": "buy",
+     "quantity": 4,
+     "price": 423.5,
+     "orderExecutionTime": "2024-12-20T15:27:36"
+    },
+    {
+     "stock": "EXIDEIND",
+     "ISIN": "INE302A01020",
+     "tradeDate": "2024-12-20",
+     "tradeType": "buy",
+     "quantity": 6,
+     "price": 423.5,
+     "orderExecutionTime": "2024-12-20T15:27:36"
+    },
+    {
+     "stock": "ONGC",
+     "ISIN": "INE213A01029",
+     "tradeDate": "2024-12-24",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 239,
+     "orderExecutionTime": "2024-12-24T11:38:33"
+    },
+    {
+     "stock": "WCIL",
+     "ISIN": "INE0CJF01024",
+     "tradeDate": "2024-12-24",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 110.5,
+     "orderExecutionTime": "2024-12-24T11:38:56"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-12-24",
+     "tradeType": "buy",
+     "quantity": 9,
+     "price": 385,
+     "orderExecutionTime": "2024-12-24T13:44:30"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2024-12-24",
+     "tradeType": "buy",
+     "quantity": 1,
+     "price": 385.05,
+     "orderExecutionTime": "2024-12-24T13:44:30"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-12-30",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 418,
+     "orderExecutionTime": "2024-12-30T13:02:34"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2024-12-30",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 408,
+     "orderExecutionTime": "2024-12-30T15:07:32"
+    },
+    {
+     "stock": "ITC",
+     "ISIN": "INE154A01025",
+     "tradeDate": "2025-01-03",
+     "tradeType": "buy",
+     "quantity": 5,
+     "price": 480.5,
+     "orderExecutionTime": "2025-01-03T13:57:03"
+    },
+    {
+     "stock": "ANGELONE",
+     "ISIN": "INE732I01013",
+     "tradeDate": "2025-01-03",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 2855,
+     "orderExecutionTime": "2025-01-03T15:22:48"
+    },
+    {
+     "stock": "SUZLON",
+     "ISIN": "INE040H01021",
+     "tradeDate": "2025-01-06",
+     "tradeType": "buy",
+     "quantity": 16,
+     "price": 58.85,
+     "orderExecutionTime": "2025-01-06T13:54:46"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2025-01-06",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 409,
+     "orderExecutionTime": "2025-01-06T13:55:04"
+    },
+    {
+     "stock": "EXIDEIND",
+     "ISIN": "INE302A01020",
+     "tradeDate": "2025-01-06",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 408.5,
+     "orderExecutionTime": "2025-01-06T14:01:01"
+    },
+    {
+     "stock": "IOC",
+     "ISIN": "INE242A01010",
+     "tradeDate": "2025-01-06",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 132.8,
+     "orderExecutionTime": "2025-01-06T15:08:34"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2025-01-06",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 379.45,
+     "orderExecutionTime": "2025-01-06T15:29:16"
+    },
+    {
+     "stock": "WCIL",
+     "ISIN": "INE0CJF01024",
+     "tradeDate": "2025-01-10",
+     "tradeType": "buy",
+     "quantity": 12,
+     "price": 109,
+     "orderExecutionTime": "2025-01-10T09:41:11"
+    },
+    {
+     "stock": "NATCOPHARM",
+     "ISIN": "INE987B01026",
+     "tradeDate": "2025-01-10",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 1240,
+     "orderExecutionTime": "2025-01-10T12:35:56"
+    },
+    {
+     "stock": "CROMPTON",
+     "ISIN": "INE299U01018",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 350,
+     "orderExecutionTime": "2025-01-13T10:14:01"
+    },
+    {
+     "stock": "IOC",
+     "ISIN": "INE242A01010",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 20,
+     "price": 125,
+     "orderExecutionTime": "2025-01-13T10:19:30"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 370,
+     "orderExecutionTime": "2025-01-13T10:42:44"
+    },
+    {
+     "stock": "COALINDIA",
+     "ISIN": "INE522F01014",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 362.8,
+     "orderExecutionTime": "2025-01-13T10:43:22"
+    },
+    {
+     "stock": "ENGINERSIN",
+     "ISIN": "INE510A01028",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 30,
+     "price": 169,
+     "orderExecutionTime": "2025-01-13T10:43:48"
+    },
+    {
+     "stock": "HINDZINC",
+     "ISIN": "INE267A01025",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 425,
+     "orderExecutionTime": "2025-01-13T10:44:01"
+    },
+    {
+     "stock": "WCIL",
+     "ISIN": "INE0CJF01024",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 108,
+     "orderExecutionTime": "2025-01-13T10:46:52"
+    },
+    {
+     "stock": "BAJAJHFL",
+     "ISIN": "INE377Y01014",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 115,
+     "orderExecutionTime": "2025-01-13T10:47:43"
+    },
+    {
+     "stock": "EXIDEIND",
+     "ISIN": "INE302A01020",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 385,
+     "orderExecutionTime": "2025-01-13T10:48:34"
+    },
+    {
+     "stock": "PFC",
+     "ISIN": "INE134E01011",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 15,
+     "price": 400,
+     "orderExecutionTime": "2025-01-13T10:49:21"
+    },
+    {
+     "stock": "RVNL",
+     "ISIN": "INE415G01027",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 358,
+     "orderExecutionTime": "2025-01-13T13:52:12"
+    },
+    {
+     "stock": "WCIL",
+     "ISIN": "INE0CJF01024",
+     "tradeDate": "2025-01-13",
+     "tradeType": "buy",
+     "quantity": 10,
+     "price": 105.55,
+     "orderExecutionTime": "2025-01-13T15:19:49"
+    },
+    {
+     "stock": "BAJAJHFL",
+     "ISIN": "INE377Y01014",
+     "tradeDate": "2025-01-13",
+     "tradeType": "sell",
+     "quantity": 10,
+     "price": 112.5,
+     "orderExecutionTime": "2025-01-13T15:24:28"
+    },
+    {
+     "stock": "ADANIPOWER",
+     "ISIN": "INE814H01011",
+     "tradeDate": "2025-01-14",
+     "tradeType": "sell",
+     "quantity": 10,
+     "price": 530.05,
+     "orderExecutionTime": "2025-01-14T10:54:12"
+    },
+    {
+     "stock": "INDUSTOWER",
+     "ISIN": "INE121J01017",
+     "tradeDate": "2025-01-14",
+     "tradeType": "sell",
+     "quantity": 10,
+     "price": 340,
+     "orderExecutionTime": "2025-01-14T11:15:07"
+    },
+    {
+     "stock": "SUZLON",
+     "ISIN": "INE040H01021",
+     "tradeDate": "2025-01-27",
+     "tradeType": "buy",
+     "quantity": 50,
+     "price": 49.94,
+     "orderExecutionTime": "2025-01-27T09:05:50"
+    },
+    {
+     "stock": "ITCHOTELS-T",
+     "ISIN": "INE379A01028",
+     "tradeDate": "2025-01-29",
+     "tradeType": "sell",
+     "quantity": 2,
+     "price": 178.6,
+     "orderExecutionTime": "2025-01-29T10:50:22"
+    },
+    {
+     "stock": "CAMS",
+     "ISIN": "INE596I01012",
+     "tradeDate": "2025-02-05",
+     "tradeType": "buy",
+     "quantity": 1,
+     "price": 3577.5,
+     "orderExecutionTime": "2025-02-05T09:15:24"
+    },
+    {
+     "stock": "CAMS",
+     "ISIN": "INE596I01012",
+     "tradeDate": "2025-02-05",
+     "tradeType": "buy",
+     "quantity": 1,
+     "price": 3647.55,
+     "orderExecutionTime": "2025-02-05T09:47:11"
+    },
+    {
+     "stock": "CAMS",
+     "ISIN": "INE596I01012",
+     "tradeDate": "2025-02-05",
+     "tradeType": "sell",
+     "quantity": 1,
+     "price": 3645,
+     "orderExecutionTime": "2025-02-05T09:47:54"
+    },
+    {
+     "stock": "CAMS",
+     "ISIN": "INE596I01012",
+     "tradeDate": "2025-02-05",
+     "tradeType": "sell",
+     "quantity": 1,
+     "price": 3645,
+     "orderExecutionTime": "2025-02-05T09:47:54"
+    }
+   ]

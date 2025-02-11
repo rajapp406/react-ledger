@@ -13,8 +13,12 @@ export class StockService {
   saveStcok(data: any) {
     if (!data) return;
     const stockData = this.getStocks();
-
+console.log(localStorage)
     localStorage.setItem('stockData', JSON.stringify([...stockData, data]));
+  }
+  loadStocks(stocks: StockInfo[]){
+    localStorage.setItem('stockData', JSON.stringify(stocks));
+
   }
   deleteStock(stock: string) {
     const stockData = this.getStocks().filter((v) => v.stock !== stock);
